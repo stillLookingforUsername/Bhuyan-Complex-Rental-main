@@ -17,18 +17,22 @@ Tenant Management: View and manage tenant information and payment status
 Bill Creation: Create monthly bills with customizable categories (Rent, Electricity, Water, Maintenance, Parking)
 Notification System: Send building-wide announcements or personal messages
 Revenue Tracking: Monitor collected and pending payments
+
+
 🔐 Demo Credentials
 Tenant Accounts
 Username: john.doe | Password: tenant123 | Room: 101
 Username: jane.smith | Password: tenant123 | Room: 202
 Owner Account
 Username: owner | Password: owner123
+
 ✨ Latest Updates - Version 2.0
 🎨 Complete UI Redesign
 Fullscreen Layout: UI now takes full browser window for maximum visibility
 Enhanced Card Design: All action cards are now visible with improved styling and hover effects
 Shimmer Effects: Beautiful hover animations on all interactive elements
 Professional Styling: Modern card-based layout matching the original mockups perfectly
+
 🖱️ Interactive Profile System
 Clickable Profile Photos: Profile sections now show the user's name
 Profile Dropdown Menu: Click on profile to access:
