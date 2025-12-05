@@ -4,6 +4,7 @@ A comprehensive React-based rental management system for building owners and ten
 🚀 Live Demo
 You can access the live application at: [Your Deployed URL]
 
+
 📋 Features
 For Tenants
 Dashboard Overview: View pending bills, current month charges, and unread notifications
@@ -41,16 +42,19 @@ View Profile Details
 Edit Profile Information
 Smooth Animations: Dropdown appears with fade-in animation
 Click Outside to Close: Intuitive UX behavior
+
 📱 Mobile-First Responsive Design
 Perfect Mobile Experience: Optimized for all screen sizes
 Touch-Friendly Interface: Proper touch targets and gestures
 Adaptive Layout: Cards resize beautifully on different devices
 Mobile Navigation: Sidebar adapts for mobile screens
+
 💫 Enhanced User Experience
 Functional Action Cards: All cards now trigger appropriate modals
 Rich Modal System: Feature-complete modals for all actions
 Real-time Feedback: Toast notifications for all user actions
 Loading States: Proper loading indicators throughout the app
+
 🛠️ Technology Stack
 Frontend: React 19 with Vite
 UI Components: Custom components with Lucide React icons
@@ -59,6 +63,7 @@ State Management: React hooks (useState, useEffect)
 Routing: React Router DOM
 Notifications: React Hot Toast
 Data: Mock data for demonstration purposes
+
 📦 Installation and Setup
 Prerequisites
 Node.js (version 20.19+ recommended)
@@ -80,6 +85,7 @@ Building for Production
 npm run build
 Preview Production Build
 npm run preview
+
 🏗️ System Architecture
 Component Structure
 src/
@@ -116,6 +122,7 @@ Email notifications
 Document management
 Maintenance requests
 Mobile app version
+
 🤝 Contributing
 Fork the repository
 Create a feature branch: git checkout -b feature-name
